@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable-anydpi/cancel.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable-anydpi/ic_help.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2075" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/b1.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/b2.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/b3.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/gui_b1.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_baseline_accessible_forward_24.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_baseline_cancel.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.2075" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_launcher_L_background.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/my_button_bg.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/drawable/save.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout-v28/layout_dialog.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/alerdialog_layout.xml" value="0.1" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/item_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/layout_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/layout_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/layout/loyout_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_L.xml" value="0.205" />
+        <entry key="..\:/Users/local/AndroidStudioProjects/KOX/app/src/main/res/mipmap-anydpi-v26/luncher_round.xml" value="0.205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
